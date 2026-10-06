@@ -1,3 +1,4 @@
+# 00_Game_Studio
 # Studio Profile
 
 > [!info] Guideline

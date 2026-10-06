@@ -1,7 +1,9 @@
 > [!info] Guideline
 > Provide a high-level summary of the game concept. Focus on the core user experience, primary mechanic, and objectives rather than detailed background lore
 # High Concept & Pitch
-## Game Title
+
+> [!info] Game Title
+> Insert Game Title Image here.
 
 > [!info] Elevator Pitch
 > 1-2 sentence pitch summarizing the player experience, key mechanic, and objective.
