@@ -1,5 +1,4 @@
-# 00_Game_Studio
-# Studio Profile
+# 00_Studio_Profile
 
 > [!info] Guideline
 > Establish the studio identity, and core mission, and central resource links for team access.

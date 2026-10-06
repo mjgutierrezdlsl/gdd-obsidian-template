@@ -1,7 +1,7 @@
 # Core Loop
 > [!info] Guideline
 > Map the primary cyclical sequence of gameplay actions, rewards, and progression steps. What does the player do repeatedly every 2 to 5 minutes?
-> > [!tip] Create your flowcharts using [mermaid](https://mermaid.js.org/).
+> > [!tip] You can create your flowcharts using [mermaid](https://mermaid.js.org/) or [draw.io](https://draw.io) as they are compatible within Obsidian. (draw.io requires a community plugin)
 
 ```mermaid
 graph TD
