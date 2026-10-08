@@ -10,11 +10,6 @@
 > [!info]
 > 1-sentence summary of the team's identity or goal.
 
-## Central Resources:
-- **Code Repository:** (Link to source code)
-- **Shared Asset Storage:** (Link to Google Drive/OneDrive/etc.)
-- **Communication Hub:** (Link to Discord)
-
 # Team Directory & Member Roles
 | Member Role | Primary Role         | Secondary Discipline | Core Responsibilities                                   | Contact / Handles    |
 | ----------- | -------------------- | -------------------- | ------------------------------------------------------- | -------------------- |
